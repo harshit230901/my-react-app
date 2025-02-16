@@ -35,18 +35,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 3. Make your changes and commit them (`git commit -am 'Add new feature'`).
 4. Push to the branch (`git push origin feature/your-feature-name`).
 5. Open a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgements
-
-- Since this is a frontend only project, all the data have been collected from [DummyJSON](https://dummyjson.com/).
-- Special thanks to [Tailwind Labs](https://tailwindcss.com/) and [Redux Toolkit](https://redux-toolkit.js.org/) for their amazing tools and documentation.
-
-## Contact
-
-For any inquiries or feedback, feel free to contact [me](mailto:alim1496@gmail.com).
-
-Happy coding! 🚀
